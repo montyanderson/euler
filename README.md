@@ -32,17 +32,17 @@ user	0m0.000s
 sys	0m0.000s
 003 - Largest prime factor.cpp
 
-real	0m16.850s
-user	0m16.832s
+real	0m0.007s
+user	0m0.004s
 sys	0m0.000s
 004 - Largest palindrome product.cpp
 
-real	0m0.023s
+real	0m0.024s
 user	0m0.020s
 sys	0m0.000s
 005 - Smallest multiple.cpp
 
-real	0m0.466s
+real	0m0.468s
 user	0m0.464s
 sys	0m0.000s
 006 - Sum square difference.cpp
@@ -52,8 +52,8 @@ user	0m0.000s
 sys	0m0.000s
 007 - 10001st prime.cpp
 
-real	0m1.406s
-user	0m1.404s
+real	0m1.386s
+user	0m1.384s
 sys	0m0.000s
 008 - Largest product in a series.cpp
 
@@ -62,7 +62,7 @@ user	0m0.000s
 sys	0m0.000s
 009 - Special Pythagorean triplet.cpp
 
-real	0m0.092s
+real	0m0.093s
 user	0m0.092s
 sys	0m0.000s
 010 - Summation of primes.cpp
@@ -72,7 +72,8 @@ user	0m0.440s
 sys	0m0.000s
 012 - Highly divisible triangular number.cpp
 
-real	0m0.315s
-user	0m0.312s
+real	0m0.317s
+user	0m0.316s
 sys	0m0.000s
+
 ```
