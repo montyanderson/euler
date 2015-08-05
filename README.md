@@ -42,9 +42,9 @@ user	0m0.020s
 sys	0m0.000s
 005 - Smallest multiple.cpp
 
-real	0m0.468s
-user	0m0.464s
-sys	0m0.000s
+real	0m0.467s
+user	0m0.460s
+sys	0m0.004s
 006 - Sum square difference.cpp
 
 real	0m0.001s
@@ -52,8 +52,8 @@ user	0m0.000s
 sys	0m0.000s
 007 - 10001st prime.cpp
 
-real	0m1.386s
-user	0m1.384s
+real	0m0.009s
+user	0m0.008s
 sys	0m0.000s
 008 - Largest product in a series.cpp
 
@@ -67,13 +67,18 @@ user	0m0.092s
 sys	0m0.000s
 010 - Summation of primes.cpp
 
-real	0m0.443s
-user	0m0.440s
+real	0m0.449s
+user	0m0.448s
 sys	0m0.000s
 012 - Highly divisible triangular number.cpp
 
-real	0m0.317s
+real	0m0.318s
 user	0m0.316s
+sys	0m0.000s
+014 - Longest Collatz sequence.cpp
+
+real	0m0.500s
+user	0m0.496s
 sys	0m0.000s
 
 ```
