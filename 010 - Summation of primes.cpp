@@ -18,7 +18,7 @@ bool isPrime(int num) {
 }
 
 int main() {
-    long int sum;
+    long int sum = 0;
 
     for(int i = 2; i < 2000000; i++) {
         if(isPrime(i) == true)
