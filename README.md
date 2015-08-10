@@ -2,6 +2,8 @@
 
 C++ solutions for [Project Euler](https://projecteuler.net/problems) problems.
 
+![Project Euler Badge](https://projecteuler.net/profile/montyanderson.png)
+
 ## Execution
 
 All solutions have been tested on Ubuntu 15.04 (64-bit), with g++ 4.9.2.
