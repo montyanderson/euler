@@ -6,8 +6,6 @@ int main() {
     int prev = 1, current = 2, sum = 2, temp = current + prev;
 
     while(temp < 4000000) {
-        cout << temp << endl;
-
         if(temp % 2 == 0)
             sum += temp;
 
@@ -16,5 +14,5 @@ int main() {
         temp = current + prev;
     }
 
-    cout << "Sum: " << sum << endl;
+    cout << sum << endl;
 }

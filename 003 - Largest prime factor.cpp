@@ -3,11 +3,14 @@
 
 using namespace std;
 
-bool isPrime(int prime) {
-    int root = (int) sqrt(prime) + 1;
+bool isPrime(int num) {
+    int root = (int) sqrt(num) + 1;
+
+    if(num <= 1)
+        return false;
 
     for(int i = 2; i < root; i++) {
-        if(prime % i == 0)
+        if(num % i == 0)
             return false;
     }
 
