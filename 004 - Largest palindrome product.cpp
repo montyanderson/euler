@@ -19,7 +19,7 @@ bool isPalindrome(int in) {
 }
 
 int main() {
-    int largest;
+    int largest = 0;
 
     for(int a = 100; a < 1000; a++) {
         for(int b = 100; b < 1000; b++) {
